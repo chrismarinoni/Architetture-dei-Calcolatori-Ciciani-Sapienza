@@ -14,8 +14,9 @@ Appunti (incompleti) per il corso di Architetture dei Calcolatori tenuto dai pro
 - Fondamenti processore z64
 
 #### Nota bene
-Gli appunti, oltre a contenere alcuni errori, sono al momento incompleti (coprono circa il 50-60% del programma) ed insufficienti per preparare la parte di progetto dell'esame. Cercherò di aggiornarli col tempo, magari dopo la sessione estiva.
+Gli appunti, oltre a contenere alcuni errori, sono al momento incompleti (coprono circa il 50-60% del programma) ed insufficienti per preparare la parte di progetto dell'esame. ~~Cercherò di aggiornarli col tempo, magari dopo la sessione estiva.~~ (La promessa di aggiornarli non è attuabile, resto comunque disponibile qualora qualcuno volesse completare l'opera).
 Il mio consiglio è quello di utilizzarli come base per la preparazione della prova teorica e di sfruttare le dispense pubblicate sul sito del professor Ciciani come complemento.
+Frequentate ed interagite a lezione col grande Ciciani; questo corso è impegnativo ma estremamente interessante.
 
 #### Materiale aggiuntivo 
 Nel libro ["Computing Architecture"](https://www.dropbox.com/s/zy1rz1p89fgfonk/Computing%20Architectures-excerpt.pdf?dl=0) sono utili (oltre che estremamente interessanti e scorrevoli) le pagine 57-145, in particolare 118-126.
